@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing page </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="banner">
+        <div class="navbar">
+            <img src="logo1.png" alt="" class="logo">
+            <ul>
+                <li><a href="#">pizza</a></li>
+                <li><a href="#">burger</a></li>
+                <li><a href="#">pepper paneer fried rice</a></li>
+                <li><a href="#">Honey chicken peppers</a></li>
+                <li><a href="#">peri peri fires</a></li>
+
+            </ul>
+        </div>
+        <div class="content">
+            <h1>Home Delivery</h1>
+            <p>place order in Home Delivery app and suscribe Home Delivery channel </p>
+            <div>
+                <button type="button"><span></span> place order</button>
+                <button type="button"><span></span> SUBSCRIBE</button>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
